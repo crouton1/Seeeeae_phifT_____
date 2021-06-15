@@ -1,0 +1,19 @@
+h1{
+    color:rgb(236, 153, 58);
+}
+
+.header{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    background: skyblue;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+p,h2{
+    text-align:center;
+    font: "Arial";
+}
